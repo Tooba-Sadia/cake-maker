@@ -1,2 +1,4 @@
 # cake-maker
-a basic website made using html and css
+A basic website made using html and css
+
+![cake-maker](ss.png)
